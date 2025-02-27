@@ -7,5 +7,3 @@ prod:
       ansible_host: 10.0.0.4
     frontend:
       ansible_host: 10.0.0.5
-    backend:
-      ansible_host: 10.0.0.6
